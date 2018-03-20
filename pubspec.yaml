@@ -1,0 +1,6 @@
+name: kubernetes
+description: Serializable Dart object representations of Kubernetes objects
+version: 0.0.1
+
+environment:
+  sdk: '>=1.20.1 <2.0.0'    

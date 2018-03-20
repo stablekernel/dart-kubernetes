@@ -1,0 +1,14 @@
+export 'CrossVersionObjectReference.dart';
+export 'HorizontalPodAutoscaler.dart';
+export 'HorizontalPodAutoscalerCondition.dart';
+export 'HorizontalPodAutoscalerList.dart';
+export 'HorizontalPodAutoscalerSpec.dart';
+export 'HorizontalPodAutoscalerStatus.dart';
+export 'MetricSpec.dart';
+export 'MetricStatus.dart';
+export 'ObjectMetricSource.dart';
+export 'ObjectMetricStatus.dart';
+export 'PodsMetricSource.dart';
+export 'PodsMetricStatus.dart';
+export 'ResourceMetricSource.dart';
+export 'ResourceMetricStatus.dart';

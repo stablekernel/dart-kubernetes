@@ -1,0 +1,13 @@
+export 'CustomResourceDefinition.dart';
+export 'CustomResourceDefinitionCondition.dart';
+export 'CustomResourceDefinitionList.dart';
+export 'CustomResourceDefinitionNames.dart';
+export 'CustomResourceDefinitionSpec.dart';
+export 'CustomResourceDefinitionStatus.dart';
+export 'CustomResourceValidation.dart';
+export 'ExternalDocumentation.dart';
+export 'JSON.dart';
+export 'JSONSchemaProps.dart';
+export 'JSONSchemaPropsOrArray.dart';
+export 'JSONSchemaPropsOrBool.dart';
+export 'JSONSchemaPropsOrStringArray.dart';
